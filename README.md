@@ -6,4 +6,4 @@
 
 # Counter
 
-This is a counter app for android. A gif pops up as soon as the counter is started.
+An interactive counter application that pops up a gif at the time when the counter is started.
